@@ -1,0 +1,56 @@
+(ExpressProject ""
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library")
+    (File ".\cartememoire.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (NoModify))
+  (Folder "Outputs")
+  (Folder "Referenced Projects")
+  (Folder "Simulation Resources"
+    (Folder "In Design")
+    (Folder "Compiled")
+    (Folder "Timed"))
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources"
+         "H:\Documents and Settings\Alain Test\Mes documents\Cegep\Projet de libération 2008\Projets\Cartes Système\Système uCtrl DS89C450\CAPTURE\CARTE MEMOIRE\cartememoire.dsn")
+      (Path "Design Resources"
+         "H:\Documents and Settings\Alain Test\Mes documents\Cegep\Projet de libération 2008\Projets\Cartes Système\Système uCtrl DS89C450\CAPTURE\CARTE MEMOIRE\cartememoire.dsn"
+         "SCHEMATIC1")
+      (Select "Design Resources"
+         "H:\Documents and Settings\Alain Test\Mes documents\Cegep\Projet de libération 2008\Projets\Cartes Système\Système uCtrl DS89C450\CAPTURE\CARTE MEMOIRE\cartememoire.dsn"
+         "SCHEMATIC1" "Connecteur"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -4 -36 88 288 216 785"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -4 -36 27 1412 35 543")
+        (Scroll "-272 0")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "H:\DOCUMENTS AND SETTINGS\ALAIN TEST\MES DOCUMENTS\CEGEP\PROJET DE LIBÉRATION 2008\PROJETS\CARTES SYSTÈME\SYSTÈME UCTRL DS89C450\CAPTURE\CARTE MEMOIRE\CARTEMEMOIRE.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "Circuit"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -4 -36 54 1443 70 582")
+        (Scroll "-187 0")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "H:\DOCUMENTS AND SETTINGS\ALAIN TEST\MES DOCUMENTS\CEGEP\PROJET DE LIBÉRATION 2008\PROJETS\CARTES SYSTÈME\SYSTÈME UCTRL DS89C450\CAPTURE\CARTE MEMOIRE\CARTEMEMOIRE.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "Connecteur")))
+  (MPSSessionName "Alain Test")
+  (PartMRUSelector))
